@@ -1,0 +1,12 @@
+/vendor/
+config.php
+.phar
+/logs/*
+.DS_Store
+.DS_Store?
+._*
+!/public/index.php
+!/public/.htaccess
+.c9/
+.idea/
+tests/_output/*

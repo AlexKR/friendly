@@ -1,0 +1,7 @@
+class_name: ApiTester
+modules:
+    enabled:
+      - REST:
+          url: http://localhost:3000/
+          depends: PhpBrowser
+          part: Json
